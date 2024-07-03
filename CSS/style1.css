@@ -1,0 +1,15 @@
+/* Définir les dimensions des images */
+.resize {
+        width: 50px; /* Largeur fixe */
+        minheight: 50px; /* Hauteur fixe */
+        object-fit: contain; /* Pour remplir le cadre sans déformation */
+        margin: 10px; /* Espace entre les images */
+    }
+    
+    /* Conteneur d'images pour les aligner côte à côte */
+    .image-container {
+        display: flex; /* Utiliser Flexbox pour aligner les images côte à côte */
+        flex-wrap: wrap; /* Permet de passer à la ligne suivante si l'espace est insuffisant */
+        justify-content: center; /* Centrer les images horizontalement */
+    }
+    
