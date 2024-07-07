@@ -100,7 +100,7 @@
         <p><strong>country:</strong> KENYA</p>
         <p><strong>Address:</strong> Lynx Appartemet Mbaghati way, Nairobi</p>
         <p><strong>country:</strong> Democratic Republic of Congo</p>
-        <p><strong>Address:</strong> Boulevard Kanyamuhanga, Goma</p>
+        <p><strong>Address:</strong> Boulevard , Goma</p>
         
         <div class="phone-numbers">
             <p><strong>Phone Number Kenya:</strong></p>
