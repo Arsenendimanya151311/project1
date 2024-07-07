@@ -4,7 +4,7 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Document</title> 
     <style type="text/css">
       *{
          text-decoration: none; }   
@@ -13,7 +13,7 @@
          }
          .navdiv{
              display: flex;align-items: center;justify-content: space-between;
- 
+             
          }
          .logo a{
              font-size: 35px;font-weight: 600;color: white;
