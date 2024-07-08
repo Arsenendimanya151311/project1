@@ -94,7 +94,7 @@
                 <p>"Shoes transform your body language and attitude. They lift you physically and emotionally." </p> <p>Christian Louboutin</p>
                 <div class="Instagram-link">
                     <p>Ask your questions on our<a href="https://www.instagram.com/kivu_kicks?igsh=MTFiZDNjMXVpMXE4bw%3D%3D&utm_source=qr" target="_blank">Instagram</a></p>
-                    <marquee behavior="" direction=""> <h2>Welcome Again</h2></marquee>
+                    <marquee behavior="" direction=""> <h2><center>Welcome Again Welcome Again Welcome Again Welcome Again Welcome Again Welcome Again Welcome Again Welcome Again Welcome Again </center></h2></marquee>
 
         
 <style> body {
