@@ -390,7 +390,7 @@ img{
                                                    
                                                    <div class="row">
     <div class="content">
-    <h1>Talk to Us</h1>
+    <h1></h1>
     <form action="<?php print htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" class="contacts_form">
         <label for="fn">Item name:</label><br>
         <input type="text" id="fn" placeholder="Fullname" name="fullname" required><br><br>
@@ -402,20 +402,19 @@ img{
             <option value="">--Select size--</option>
             <option value="Smal">S</option>
             <option value="Medium">M</option>
-            <option value="shoes">L</option>
+            <option value="shoes">XL</option>
+            <option value="Large">42</option>
             <option value="shoes">38</option>
             <option value="shoes">39</option>
             <option value="shoes">40</option>
             <option value="shoes">41</option>
             <option value="Large">42</option>
+            <option value="Large">43</option>
+            <option value="Large">44</option>
+            <option value="Large">45</option>
         </select><br><br>
 
-        <label for="sb">Message:</label><br>
-        <textarea name="client_message" id="" cols="30" rows="5" required></textarea><br><br>
-       
-        <input type="submit" name="send_message" value="Send Message">
-    </form>
-                </div>
+
 <br>
                                                    
 <label for="sb">Delivery:</label><br>
