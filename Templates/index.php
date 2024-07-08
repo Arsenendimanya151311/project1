@@ -98,7 +98,7 @@
         
 <div class="clearfix">
     <div class="img-container">
-    <img src="images/JORDAN  KIDS PRS.jpg" alt="sneakers" style="width:100%">
+    <img src="../images/JORDAN  KIDS PRS.jpg" alt="sneakers" style="width:100%">
     <p><h3>JORDAN</h3></p>
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
   
@@ -107,14 +107,14 @@
 
     </div>
     <div class="img-container">
-        <img src="images/NIKE ZOOM.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/NIKE ZOOM.jpg" alt="Mountains" style="width:100%">
         <p><h3> NIKE ZOOM</h3></p>
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
      
        
    </div>
     <div class="img-container">
-    <img src="images/KIDS ADIDAS BST.jpg" alt="Forest" style="width:100%">
+    <img src="../images/KIDS ADIDAS BST.jpg" alt="Forest" style="width:100%">
     <p><h3>ADIDAS </h3></p>
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
 
@@ -123,7 +123,7 @@
   
     
     <div class="img-container">
-        <img src="images/AIR MAX.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/AIR MAX.jpg" alt="Mountains" style="width:100%">
         <p><h3>AIR MAX</h3></p>
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
        
@@ -131,7 +131,7 @@
     
         </div>
         <div class="img-container">
-            <img src="images/JJORDAN 1 LOW.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/JJORDAN 1 LOW.jpg" alt="Mountains" style="width:100%">
             <p><h3> JORDAN 1 LOW</h3></p>
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             
@@ -139,28 +139,28 @@
         
             </div>
             <div class="img-container">
-                <img src="images/JORDAN 1 LOW CHOCOLAT.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/JORDAN 1 LOW CHOCOLAT.jpg" alt="Mountains" style="width:100%">
                 <p><h3> JORDAN CHOCOLATE </h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
              
              
            </div>
            <div class="img-container">
-            <img src="images/JORDAN 1 LA.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/JORDAN 1 LA.jpg" alt="Mountains" style="width:100%">
             <p><h3> JORDAN L.A </h3></p>
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
            
           
        </div>
        <div class="img-container">
-        <img src="images/KIDS AIRMAX.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/KIDS AIRMAX.jpg" alt="Mountains" style="width:100%">
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         <p><h3> NEW AIR MAX</h3></p>
         
     
         </div>
         <div class="img-container">
-            <img src="images/Old adidas.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/Old adidas.jpg" alt="Mountains" style="width:100%">
             <p><h3> OLD</h3></p>
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             
@@ -233,14 +233,14 @@ img{
 
 
     <div class="img-container">
-        <img src="images/kids4.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/kids4.jpg" alt="Mountains" style="width:100%">
         <p><h3>AIR FORCE</h3></p>
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
       
     
         </div>
         <div class="img-container">
-            <img src="images/kids5.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/kids5.jpg" alt="Mountains" style="width:100%">
             <p><h3> KIDS OFFICIAL SHOES</h3></p>
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             
@@ -248,28 +248,28 @@ img{
         
             </div>
             <div class="img-container">
-                <img src="images/kids6.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/kids6.jpg" alt="Mountains" style="width:100%">
                 <p><h3> FRAGMA CACTUS </h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                
               
            </div>
            <div class="img-container">
-            <img src="images/kids7.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/kids7.jpg" alt="Mountains" style="width:100%">
             <p><h3> JORDAN 1 </h3></p>
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             
          
        </div>
        <div class="img-container">
-        <img src="images/kids8.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/kids8.jpg" alt="Mountains" style="width:100%">
         <p><h3> JORDAN 6</h3></p>
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
      
        
         </div>
         <div class="img-container">
-            <img src="images/kids9.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/kids9.jpg" alt="Mountains" style="width:100%">
             <p><h3> Vans</h3></p>
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             
@@ -278,7 +278,7 @@ img{
                     
 <div class="clearfix">
     <div class="img-container">
-    <img src="images/ladie 1.jpg" alt="sneakers" style="width:100%">
+    <img src="../images/ladie 1.jpg" alt="sneakers" style="width:100%">
     <p><h3>Zara Green Boots</h3></p>
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
  
@@ -287,14 +287,14 @@ img{
 
     </div>
     <div class="img-container">
-    <img src="images/ladie 10.jpg" alt="Forest" style="width:100%">
+    <img src="../images/ladie 10.jpg" alt="Forest" style="width:100%">
     <p><h3>Zara Black Boots</h3></p>
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
     
 
     </div>
     <div class="img-container">
-    <img src="images/ladie 11.jpg" alt="Mountains" style="width:100%">
+    <img src="../images/ladie 11.jpg" alt="Mountains" style="width:100%">
     <p><h3>New Generation Louboutin Red Cross Escarpin</h3></p>
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
   
@@ -302,70 +302,70 @@ img{
 </div>
     
     <div class="img-container">
-        <img src="images/ladie 2.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/ladie 2.jpg" alt="Mountains" style="width:100%">
         <P><H3>OFF White Black Boots</H3></P>
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         
     
         </div>
         <div class="img-container">
-            <img src="images/ladie 3.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/ladie 3.jpg" alt="Mountains" style="width:100%">
             <p><h3>New  Black Cross Escarpin</h3></p>
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
           
         
             </div>
             <div class="img-container">
-                <img src="images/ladie 4.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/ladie 4.jpg" alt="Mountains" style="width:100%">
                 <p><h3> New Louboutin Red Cross Escarpin</h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                
             </div>
             <div class="img-container">
-                <img src="images/ladie 5.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/ladie 5.jpg" alt="Mountains" style="width:100%">
                 <p><h3>Louboutin Red Cross Escarpin</h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                
             </div>
             <div class="img-container">
-                <img src="images/ladie 6.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/ladie 6.jpg" alt="Mountains" style="width:100%">
                 <p><h3> Balmain Escarpin</h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                 
             </div>
             <div class="img-container">
-                <img src="images/ladie 7.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/ladie 7.jpg" alt="Mountains" style="width:100%">
                 <p><h3> Zara Red Cross Escarpin</h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                
             </div>
             <div class="img-container">
-                <img src="images/ladie 9.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/ladie 9.jpg" alt="Mountains" style="width:100%">
                 <p><h3> Red Cross Escarpin</h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                
             </div> 
             
             <div class="img-container">
-                <img src="images/LOUBOUTIN.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/LOUBOUTIN.jpg" alt="Mountains" style="width:100%">
                 <p><h3> Louboutin </h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                
             </div>
             <div class="img-container">
-                <img src="images/ladie 11.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/ladie 11.jpg" alt="Mountains" style="width:100%">
                 <p><h3> Escarpin Rouge</h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                
             </div>
             <div class="img-container">
-                <img src="images/ladie 12.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/ladie 12.jpg" alt="Mountains" style="width:100%">
                 <p><h3> New balance</h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
              
             </div> 
             <div class="img-container">
-                <img src="images/ladie 13.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/ladie 13.jpg" alt="Mountains" style="width:100%">
                 <p><h3> Gym Shoes</h3></p>
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                 
@@ -373,7 +373,7 @@ img{
            
             
                 <div class="img-container">
-                    <img src="images/ladie 18.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 18.jpg" alt="Mountains" style="width:100%">
                     <p><h3> Puma Sneakers </h3></p>
                     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                     
