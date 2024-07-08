@@ -118,9 +118,8 @@ echo "Connected successfully";
                 <li> <a href="Apparel.php">Apparel</a> </li>
                 <li>  <a href="Contact.php">Contact</a> </li>
                 <li>  <a href="view_message.php">view_message</a> </li>
-
-                <button><a href="#">Login</a></button>
-                <button><a href="#">SignUp</a></button>
+                <li>  <a href="signup.php">signup</a> </li>
+                
             </ul>
         
         </div>
@@ -160,7 +159,7 @@ echo "Connected successfully";
         <input type="text" id="fn" placeholder="Fullname" name="fullname" required><br><br>
 
         <label for="em">Email Address:</label><br>
-        <input type="email" id="em" placeholder="Email Address" name="email_address" required><br><br>
+        <input type="email" id="em" placeholder="Email Address" name="email" required><br><br>
 
         <label for="sb">Subject:</label><br>
         <select name="subject_line" id="sb" required>

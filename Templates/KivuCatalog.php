@@ -45,8 +45,8 @@
                 <li>  <a href="KidsCatolog.php">kidsCatalog</a></li>
                 <li> <a href="WomanKicksCatalog.php">WomanKicksCatalog</a> </li>
                 <li> <a href="Apparel.php">Apparel</a> </li>
-                <li>  <a href="Contact.php">Contact</a> </li>
-                <li>  <a href="view_message.php">view_message</a> </li>
+                <li>  <a href="signup.php">signup</a> </li>
+               
 
                 <button><a href="#">Login</a></button>
                 <button><a href="#">SignUp</a></button>
@@ -95,7 +95,7 @@ img{
         
 <div class="clearfix">
     <div class="img-container">
-    <img src="images/JORDAN  KIDS PRS.jpg" alt="sneakers" style="width:100%">
+    <img src="../images/JORDAN  KIDS PRS.jpg" alt="sneakers" style="width:100%">
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
     <p><h3>JORDAN</h3></p>
     <p style="color:red;">150$</p>
@@ -103,13 +103,13 @@ img{
 
     </div>
     <div class="img-container">
-        <img src="images/NIKE ZOOM.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/NIKE ZOOM.jpg" alt="Mountains" style="width:100%">
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         <p><h3> NIKE ZOOM</h3></p>
         <p style="color:red;">180$</p>
    </div>
     <div class="img-container">
-    <img src="images/KIDS ADIDAS BST.jpg" alt="Forest" style="width:100%">
+    <img src="../images/KIDS ADIDAS BST.jpg" alt="Forest" style="width:100%">
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
     <p><h3>ADIDAS </h3></p>
     <p style="color:red;">100$</p>
@@ -117,40 +117,40 @@ img{
   
     
     <div class="img-container">
-        <img src="images/AIR MAX.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/AIR MAX.jpg" alt="Mountains" style="width:100%">
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         <p><h3>AIR MAX</h3></p>
         <p style="color:red;">220$</p>
     
         </div>
         <div class="img-container">
-            <img src="images/JJORDAN 1 LOW.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/JJORDAN 1 LOW.jpg" alt="Mountains" style="width:100%">
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             <p><h3> JORDAN 1 LOW</h3></p>
             <p style="color:red;">750$</p>
         
             </div>
             <div class="img-container">
-                <img src="images/JORDAN 1 LOW CHOCOLAT.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/JORDAN 1 LOW CHOCOLAT.jpg" alt="Mountains" style="width:100%">
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                 <p><h3> JORDAN CHOCOLATE </h3></p>
                 <p style="color:red;">280$</p>
            </div>
            <div class="img-container">
-            <img src="images/JORDAN 1 LA.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/JORDAN 1 LA.jpg" alt="Mountains" style="width:100%">
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             <p><h3> JORDAN L.A </h3></p>
             <p style="color:red;">180$</p>
        </div>
        <div class="img-container">
-        <img src="images/KIDS AIRMAX.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/KIDS AIRMAX.jpg" alt="Mountains" style="width:100%">
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         <p><h3> NEW AIR MAX</h3></p>
         <p style="color:red;">750$</p>
     
         </div>
         <div class="img-container">
-            <img src="images/Old adidas.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/Old adidas.jpg" alt="Mountains" style="width:100%">
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             <p><h3> OLD</h3></p>
             <p style="color:red;">550$</p>

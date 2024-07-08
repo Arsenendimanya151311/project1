@@ -45,8 +45,8 @@
                 <li>  <a href="KidsCatolog.php">kidsCatalog</a></li>
                 <li> <a href="WomanKicksCatalog.php">WomanKicksCatalog</a> </li>
                 <li> <a href="Apparel.php">Apparel</a> </li>
-                <li>  <a href="Contact.php">Contact</a> </li>
-                <li>  <a href="view_message.php">view_message</a> </li>
+                <li>  <a href="signup.php">signup</a> </li>
+
 
                 <button><a href="#">Login</a></button>
                 <button><a href="#">SignUp</a></button>

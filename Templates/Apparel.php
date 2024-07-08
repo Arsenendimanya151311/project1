@@ -47,9 +47,8 @@
                 <li> <a href="Apparel.php">Apparel</a> </li>
                 <li>  <a href="Contact.php">Contact</a> </li>
                 <li>  <a href="view_message.php">view_message</a> </li>
-
-                <button><a href="#">Login</a></button>
-                <button><a href="#">SignUp</a></button>
+                <li>  <a href="signup.php">signup</a> </li>
+               
             </ul>
         
         </div>
