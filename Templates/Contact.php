@@ -46,6 +46,23 @@ if ($conn->connect_error) {
 }
 echo "Connected successfully";
 ?>
+<?php
+  if(isset($_POST["send_message"])){
+    $fn = mysqli_real_escape_string($conn, $_POST["fullname"]);
+    $email = mysqli_real_escape_string($conn, $_POST["email"]);
+    $subject = mysqli_real_escape_string($conn, $_POST["subject_line"]);
+    $message = mysqli_real_escape_string($conn, $_POST["message"]);
+
+    $insert_message = "INSERT INTO customers (fullname, email, subject_line, message) VALUES ('$fullname', '$email', '$subject', '$message')";
+
+    if ($conn->query($insert_message) === TRUE) {
+        header("Location: view_message.php");
+        exit();
+    } else {
+        echo "Error: " . $insert_message . "<br>" . $conn->error;
+    }
+}
+?>
 
     <style>
         body {
@@ -89,17 +106,18 @@ echo "Connected successfully";
     </style>
 </head>
 <body>
-    <nav class="navbar"> 
+<nav class="navbar"> 
         <div class="navdiv">
-            <div class="logo"><a href="#"></a> <h2>KIVU SNEAKERS</h2></div>
+            <div class="logo"><a href="#"></a><h2>KIVU SNEAKERS</h2></div>
             <ul>
-                <li> <a href="About.html"> About Us </a> </li>
-                <li>  <a href="index.html"> Home </a>  </li>
-                <li> <a href="KivuCatalog.html">KivuCatalog</a> </li>
-                <li>  <a href="KidsCatolog.html">kidsCatalog</a></li>
-                <li> <a href="WomanKicksCatalog.html">WomanKicksCatalog</a> </li>
-                <li> <a href="Apparel.html">Apparel</a> </li>
-                <li>  <a href="Contact.html">Contact</a> </li>
+                <li> <a href="About.php"> About Us </a> </li>
+                <li>  <a href="index.php"> Home </a>  </li>
+                <li> <a href="KivuCatalog.php">KivuCatalog</a> </li>
+                <li>  <a href="KidsCatolog.php">kidsCatalog</a></li>
+                <li> <a href="WomanKicksCatalog.php">WomanKicksCatalog</a> </li>
+                <li> <a href="Apparel.php">Apparel</a> </li>
+                <li>  <a href="Contact.php">Contact</a> </li>
+                <li>  <a href="view_message.php">view_message</a> </li>
 
                 <button><a href="#">Login</a></button>
                 <button><a href="#">SignUp</a></button>
@@ -146,14 +164,14 @@ echo "Connected successfully";
 
         <label for="sb">Subject:</label><br>
         <select name="subject_line" id="sb" required>
-            <option value="">--Select Subject--</option>
-            <option value="Email Support">Email Support</option>
-            <option value="eLearning Support">eLearning Support</option>
-            <option value="AMS Support">AMS Support</option>
+            <option value="">--Subject_line--</option>
+            <option value="Delivery">Delivery</option>
+            <option value="Own pick up">Own pick up</option>
+           
         </select><br><br>
 
         <label for="sb">Message:</label><br>
-        <textarea name="client_message" id="" cols="30" rows="5" required></textarea><br><br>
+        <textarea name="message" id="" cols="30" rows="5" required></textarea><br><br>
        
         <input type="submit" name="send_message" value="Send Message">
     </form>

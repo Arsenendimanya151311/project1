@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 05, 2024 at 12:43 PM
+-- Generation Time: Jul 08, 2024 at 05:05 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -28,32 +28,24 @@ SET time_zone = "+00:00";
 --
 
 DROP TABLE IF EXISTS `customers`;
-CREATE TABLE `customers` (
-  `customerid` int(11) NOT NULL,
+CREATE TABLE IF NOT EXISTS `customers` (
+  `customerid` int(11) NOT NULL AUTO_INCREMENT,
   `fullname` varchar(30) DEFAULT NULL,
   `email` varchar(50) NOT NULL DEFAULT 'email',
-  `password` varchar(20) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+  `password` varchar(20) DEFAULT NULL,
+  `subject_line` text NOT NULL,
+  `message` text NOT NULL,
+  `datecreated` datetime NOT NULL DEFAULT current_timestamp(),
+  `dateupdated` datetime NOT NULL DEFAULT current_timestamp(),
+  PRIMARY KEY (`customerid`)
+) ENGINE=InnoDB AUTO_INCREMENT=151312 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Indexes for dumped tables
+-- Dumping data for table `customers`
 --
 
---
--- Indexes for table `customers`
---
-ALTER TABLE `customers`
-  ADD PRIMARY KEY (`customerid`);
-
---
--- AUTO_INCREMENT for dumped tables
---
-
---
--- AUTO_INCREMENT for table `customers`
---
-ALTER TABLE `customers`
-  MODIFY `customerid` int(11) NOT NULL AUTO_INCREMENT;
+INSERT INTO `customers` (`customerid`, `fullname`, `email`, `password`, `subject_line`, `message`, `datecreated`, `dateupdated`) VALUES
+(121314, 'blaise ndimanya', 'bndimnaya@icloud.com', '147852369as', '', '', '2024-07-08 17:51:56', '2024-07-08 17:52:54');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
