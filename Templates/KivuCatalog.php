@@ -13,31 +13,7 @@
     <p>
    
 <br>
-<style>
-
-img{
-    width: 200px;
-    height:300px ;
-    object-fit: cover;
-    margin: 1px;
- }
-
-    * {
-  box-sizing: border-box;
-}
-
-.img-container {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
+<?php include_once ("templates3/tab.php")?>
 
 
 
@@ -131,8 +107,7 @@ img{
 <label for="sb">Size:</label><br>
         <select name="subject_line" id="sb" required>
             <option value="">--Select size--</option>
-          
-            <option value="Large">37</option>
+          <option value="Large">37</option>
             <option value="shoes">38</option>
             <option value="shoes">39</option>
             <option value="shoes">40</option>

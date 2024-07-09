@@ -22,23 +22,8 @@
     <p>
    
 <br>
-<style>
 
-
-
-    * {
-  box-sizing: border-box;
-}
-
-.img-container {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-
-</style>
-
+<?php include_once ("templates3/tab.php")?>
 
 
 

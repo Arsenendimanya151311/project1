@@ -16,30 +16,7 @@
             <p>
 
                 <br>
-                <style>
-                    img {
-                        width: 200px;
-                        height: 300px;
-                        object-fit: cover;
-                        margin: 1px;
-                    }
-
-                    * {
-                        box-sizing: border-box;
-                    }
-
-                    .img-container {
-                        float: left;
-                        width: 33.33%;
-                        padding: 5px;
-                    }
-
-                    .clearfix::after {
-                        content: "";
-                        clear: both;
-                        display: table;
-                    }
-                </style>
+                <?php include_once ("templates3/tab.php")?>
 
 
 
@@ -189,25 +166,37 @@
                                                       font-weight: 600;"> </h1>
 
 
-            <form action="" methods="post">
-                <label for="fn"> Size</label><br>
-                <input type="text" id="fn">
-                <br>
+<br>
+<form action="<?php print htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" class="contacts_form">
+        <label for="fn">Item name:</label><br>
+        <input type="text" id="fn" placeholder="Fullname" name="fullname" required><br><br>
 
-
-
-
-
-
-
-                <ol>
-                    <input type="checkbox" Pilot=" Pilot " value="on" /> Delivery
-                    <input type="checkbox" Pilot=" Pilot " value="on" /> Own pick up
-
-
-                </ol>
-                <form action=""></form>
-                <form>
+                                                   
+<label for="sb">Size:</label><br>
+        <select name="subject_line" id="sb" required>
+          
+        <option value="Large">37</option>
+            <option value="shoes">38</option>
+            <option value="shoes">39</option>
+            <option value="shoes">40</option>
+            <option value="shoes">41</option>
+            <option value="Large">42</option>
+            <option value="Large">43</option>
+          
+        </select><br><br>
+                                                  
+        <br>
+                                                   
+                                           <label for="sb">Delivery:</label><br>
+                                                           <select name="subject_line" id="sb" required>
+                                                               <option value="">--Delivery Mode--</option>
+                                                               <option value="Delivery">Delivery</option>
+                                                               <option value="Own pick up">Own pick up</option>
+                                                              
+                                                           </select><br><br>  
+               
+    
+                
 
                     <button>Submit</button>
                     <hr size="8" width="100%" color="red">
