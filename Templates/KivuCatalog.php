@@ -117,10 +117,10 @@ img{
                                                       font-weight: 600;"> </h1>
                                                    
 
-                                                    <form action="" methods="post">
-                                                    <label for="fn"> Size</label><br>
-                                                    <input type="text" id="fn">
-<br>
+                                                   <form action="<?php print htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" class="contacts_form">
+        <label for="fn">Item name:</label><br>
+        <input type="text" id="fn" placeholder="Fullname" name="fullname" required><br><br>
+                                           
                                                    
                                                   
 
@@ -128,15 +128,30 @@ img{
     
                 
 
-                        <ol >
-                            <input type="checkbox"  Pilot=" Pilot " value="on" /> Delivery
-                            <input type="checkbox"  Pilot=" Pilot " value="on" /> Own pick up
-                          
-                            
-                        </ol><form action=""></form>
-                    <form>
+<label for="sb">Size:</label><br>
+        <select name="subject_line" id="sb" required>
+            <option value="">--Select size--</option>
+          
+            <option value="Large">37</option>
+            <option value="shoes">38</option>
+            <option value="shoes">39</option>
+            <option value="shoes">40</option>
+            <option value="shoes">41</option>
+            <option value="Large">42</option>
+            <option value="Large">43</option>
+            <option value="Large">44</option>
+            <option value="Large">45</option>
+        </select><br><br>
 
-                    <button>Submit</button>
+        <label for="sb">Delivery:</label><br>
+        <select name="subject_line" id="sb" required>
+            <option value="">--Delivery Mode--</option>
+            <option value="Delivery">Delivery</option>
+            <option value="Own pick up">Own pick up</option>
+           
+        </select><br><br>                                               
+
+               
                     <hr size="8" width="100%" color="red"> 
                     <p><center>Copyright KIVU Kicks 2024 &copy; Allrights reserved</center> </p>
 
