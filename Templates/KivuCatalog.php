@@ -118,9 +118,9 @@
             <option value="Large">45</option>
         </select><br><br>
 
-        <label for="sb">Delivery:</label><br>
+        <label for="sb">Delivery Mode:</label><br>
        
-            <option value="">--Delivery Mode--</option>
+            
             <option value="Delivery">Delivery</option>
             <option value="Own pick up">Own pick up</option>
            
