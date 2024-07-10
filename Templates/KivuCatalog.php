@@ -106,7 +106,7 @@
 
 <label for="sb">Size:</label><br>
         <select name="subject_line" id="sb" required>
-            <option value="">--Select size--</option>
+            
           <option value="Large">37</option>
             <option value="shoes">38</option>
             <option value="shoes">39</option>
@@ -117,10 +117,9 @@
             <option value="Large">44</option>
             <option value="Large">45</option>
         </select><br><br>
-
-        <label for="sb">Delivery Mode:</label><br>
+         <label for="sb">Delivery Mode:</label><br>
+        <select name="subject_line" id="sb" required>
        
-            
             <option value="Delivery">Delivery</option>
             <option value="Own pick up">Own pick up</option>
            
