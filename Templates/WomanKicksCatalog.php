@@ -136,7 +136,7 @@
                     <p style="color:red;">270$</p>
                 </div>
                 <div class="img-container">
-                    <img src="../images/ladie 13.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 13.jpg" alt="Gym shoes" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3> Gym Shoes</h3>
