@@ -24,7 +24,7 @@
 
             <div class="clearfix">
                 <div class="img-container">
-                    <img src="../images/ladie 1.jpg" alt="sneakers" style="width:100%">
+                    <img src="../images/ladie 1.jpg" alt="boots" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3>Zara Green Boots</h3>
@@ -34,7 +34,7 @@
 
                 </div>
                 <div class="img-container">
-                    <img src="../images/ladie 10.jpg" alt="Forest" style="width:100%">
+                    <img src="../images/ladie 10.jpg" alt="boots" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3>Zara Black Boots</h3>
@@ -43,7 +43,7 @@
 
                 </div>
                 <div class="img-container">
-                    <img src="../images/ladie 11.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 11.jpg" alt="louboutin" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3>New Generation Louboutin Red Cross Escarpin</h3>
@@ -53,7 +53,7 @@
                 </div>
 
                 <div class="img-container">
-                    <img src="../images/ladie 2.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 2.jpg" alt="boots" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3> OFF White Black Boots</h3>
@@ -62,7 +62,7 @@
 
                 </div>
                 <div class="img-container">
-                    <img src="../images/ladie 3.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 3.jpg" alt="Escarpin" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3>New Black Cross Escarpin</h3>
@@ -78,8 +78,8 @@
                     </p>
                     <p style="color:red;">800$</p>
                 </div>
-                <div class="../img-container">
-                    <img src="images/ladie 5.jpg" alt="Mountains" style="width:100%">
+                <div class="img-container">
+                    <img src="../images/ladie 5.jpg" alt="Mountains" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3>Louboutin Red Cross Escarpin</h3>
