@@ -87,7 +87,7 @@
                     <p style="color:red;">700$</p>
                 </div>
                 <div class="img-container">
-                    <img src="../images/ladie 6.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 6.jpg" alt="balamin escarpain" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3> Balmain Escarpin</h3>
@@ -95,7 +95,7 @@
                     <p style="color:red;">800$</p>
                 </div>
                 <div class="img-container">
-                    <img src="../images/ladie 7.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 7.jpg" alt="zara red cross" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3> Zara Red Cross Escarpin</h3>
