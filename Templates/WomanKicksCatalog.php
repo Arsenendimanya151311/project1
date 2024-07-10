@@ -112,7 +112,7 @@
                 </div>
 
                 <div class="img-container">
-                    <img src="../images/LOUBOUTIN.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/LOUBOUTIN.jpg" alt="Louboutin" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3> Louboutin </h3>
