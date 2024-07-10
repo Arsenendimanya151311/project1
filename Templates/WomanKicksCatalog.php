@@ -103,7 +103,7 @@
                     <p style="color:red;">650$</p>
                 </div>
                 <div class="img-container">
-                    <img src="../images/ladie 9.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 9.jpg" alt="Red cross escarpin" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3> Red Cross Escarpin</h3>
