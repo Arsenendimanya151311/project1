@@ -206,7 +206,7 @@
                 </form>
                 <style>
                     body {
-                        background-image: url(images/bk.jpg);
+                        background-image: url(../images/bk.jpg);
                     }
                 </style>
         </body>
