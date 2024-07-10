@@ -120,7 +120,7 @@
                     <p style="color:red;">1000$</p>
                 </div>
                 <div class="img-container">
-                    <img src="../images/ladie 11.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 11.jpg" alt="Escarpin" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3> Escarpin Rouge</h3>
@@ -128,10 +128,10 @@
                     <p style="color:red;">770$</p>
                 </div>
                 <div class="img-container">
-                    <img src="../images/ladie 12.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 12.jpg" alt="New balance" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
-                    <h3> New balance</h3>
+                    <h3> Woman New balance</h3>
                     </p>
                     <p style="color:red;">270$</p>
                 </div>
