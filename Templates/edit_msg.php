@@ -80,7 +80,7 @@ if (isset($_GET["customerid"]))
 
           <label for="sb">Subject:</label><br>
           <select name="subject_line" id="sb" required value="<?php print $sel_msg_row["subject_line"]; ?>">
-          <option value="">--Select Subject--</option>
+          <option value="">--Select Delivery mode --</option>
           <option value="Delivery">Delivery</option>
           <option value="Own pick up">Own pick up</option>
           </select><br><br>
