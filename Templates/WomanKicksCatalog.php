@@ -146,7 +146,7 @@
 
 
                 <div class="img-container">
-                    <img src="../images/ladie 18.jpg" alt="Mountains" style="width:100%">
+                    <img src="../images/ladie 18.jpg" alt="sneakerss" style="width:100%">
                     <input type="checkbox" Pilot=" Pilot " value="on" />Add to cart
                     <p>
                     <h3> Puma Sneakers </h3>
@@ -174,8 +174,8 @@
                                                    
 <label for="sb">Size:</label><br>
         <select name="subject_line" id="sb" required>
-          
-        <option value="Large">37</option>
+           <option value="Large">36</option>
+            <option value="Large">37</option>
             <option value="shoes">38</option>
             <option value="shoes">39</option>
             <option value="shoes">40</option>
@@ -187,7 +187,6 @@
                                                 
                                                    
 <label for="sb">Delivery:</label><br>
- <select name="subject_line" id="sb" required>
 <option value="">--Delivery Mode--</option>
 <option value="Delivery">Delivery</option>
 <option value="Own pick up">Own pick up</option>
