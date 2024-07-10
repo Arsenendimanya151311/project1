@@ -119,7 +119,7 @@
         </select><br><br>
 
         <label for="sb">Delivery:</label><br>
-        <select name="subject_line" id="sb" required>
+       
             <option value="">--Delivery Mode--</option>
             <option value="Delivery">Delivery</option>
             <option value="Own pick up">Own pick up</option>
