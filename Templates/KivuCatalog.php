@@ -85,15 +85,9 @@
 </div>
 
 
-<h1 style ="text-align: center ;
-                                                     color:rgb(0, 0, 0); 
-                                                     text-decoration: underline; 
-                                                     text-transform: uppercase;
-                                                      font-style: italic; 
-                                                      font-weight: 600;"> </h1>
-                                                   
 
-                                                   <form action="<?php print htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" class="contacts_form">
+                                                   
+        <form action="<?php print htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" class="contacts_form">
         <label for="fn">Item name:</label><br>
         <input type="text" id="fn" placeholder="Fullname" name="fullname" required><br><br>
                                            

@@ -86,17 +86,14 @@
 </div>
 
 
-<h1 style ="text-align: center ;
-                                                     color:rgb(0, 0, 0); 
-                                                     text-decoration: underline; 
-                                                     text-transform: uppercase;
-                                                      font-style: italic; 
-                                                      font-weight: 600;"> </h1>
+                                          
+<form action="<?php print htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" class="contacts_form">
+        <label for="fn">Item name:</label><br>
+        <input type="text" id="fn" placeholder="Fullname" name="fullname" required><br><br>
                                                    
 
-                                                   <label for="sb">Size:</label><br>
+        <label for="sb">Size:</label><br>
         <select name="subject_line" id="sb" required>
-            <option value="">--Select size--</option>
           
             <option value="Large">33</option>
             <option value="shoes">34</option>
@@ -110,7 +107,6 @@
 
         <label for="sb">Delivery:</label><br>
         <select name="subject_line" id="sb" required>
-            <option value="">--Delivery Mode--</option>
             <option value="Delivery">Delivery</option>
             <option value="Own pick up">Own pick up</option>
            
