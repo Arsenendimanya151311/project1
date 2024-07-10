@@ -117,8 +117,9 @@
                     <p><center>Copyright KIVU Kicks 2024 &copy; Allrights reserved</center> </p>
 
                     </form>
-                    <style> body {
-                        background-image: url(images/bk.jpg);
+                   
+                     <style> body {
+                        background-image: url(../images/bk.jpg);
                     }
                             </style>
 </body>

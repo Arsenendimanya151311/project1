@@ -332,7 +332,7 @@ img{
 
         <label for="sb">Size:</label><br>
         <select name="subject_line" id="sb" required>
-            <option value="">--Select size--</option>
+         
             <option value="Smal">S</option>
             <option value="Medium">M</option>
             <option value="shoes">XL</option>
@@ -352,7 +352,7 @@ img{
                                                    
 <label for="sb">Delivery:</label><br>
         <select name="subject_line" id="sb" required>
-            <option value="">--Delivery Mode--</option>
+       
             <option value="Delivery">Delivery</option>
             <option value="Own pick up">Own pick up</option>
            
