@@ -314,12 +314,6 @@ img{
 </div>
 
 
-<h1 style ="text-align: center ;
-                                                     color:rgb(0, 0, 0); 
-                                                     text-decoration: underline; 
-                                                     text-transform: uppercase;
-                                                      font-style: italic; 
-                                                      font-weight: 600;"> </h1>
                                                    
                                                    <div class="row">
     <div class="content">
