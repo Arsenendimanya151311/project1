@@ -19,7 +19,7 @@
         
 <div class="clearfix">
     <div class="img-container">
-    <img src="../images/JORDAN  KIDS PRS.jpg" alt="sneakers" style="width:100%">
+    <img src="../images/JORDAN  KIDS PRS.jpg" alt="jordan" style="width:100%">
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
     <p><h3>JORDAN</h3></p>
     <p style="color:red;">150$</p>
@@ -27,13 +27,13 @@
 
     </div>
     <div class="img-container">
-        <img src="../images/NIKE ZOOM.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/NIKE ZOOM.jpg" alt="nike zoom" style="width:100%">
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         <p><h3> NIKE ZOOM</h3></p>
         <p style="color:red;">180$</p>
    </div>
     <div class="img-container">
-    <img src="../images/KIDS ADIDAS BST.jpg" alt="Forest" style="width:100%">
+    <img src="../images/KIDS ADIDAS BST.jpg" alt="adidas" style="width:100%">
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
     <p><h3>ADIDAS </h3></p>
     <p style="color:red;">100$</p>
@@ -41,40 +41,40 @@
   
     
     <div class="img-container">
-        <img src="../images/AIR MAX.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/AIR MAX.jpg" alt="air max" style="width:100%">
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         <p><h3>AIR MAX</h3></p>
         <p style="color:red;">220$</p>
     
         </div>
         <div class="img-container">
-            <img src="../images/JJORDAN 1 LOW.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/JJORDAN 1 LOW.jpg" alt="jordan" style="width:100%">
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             <p><h3> JORDAN 1 LOW</h3></p>
             <p style="color:red;">750$</p>
         
             </div>
             <div class="img-container">
-                <img src="../images/JORDAN 1 LOW CHOCOLAT.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/JORDAN 1 LOW CHOCOLAT.jpg" alt="jordan" style="width:100%">
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                 <p><h3> JORDAN CHOCOLATE </h3></p>
                 <p style="color:red;">280$</p>
            </div>
            <div class="img-container">
-            <img src="../images/JORDAN 1 LA.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/JORDAN 1 LA.jpg" alt="jordan 1" style="width:100%">
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             <p><h3> JORDAN L.A </h3></p>
             <p style="color:red;">180$</p>
        </div>
        <div class="img-container">
-        <img src="../images/KIDS AIRMAX.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/KIDS AIRMAX.jpg" alt="kids air max" style="width:100%">
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         <p><h3> NEW AIR MAX</h3></p>
         <p style="color:red;">750$</p>
     
         </div>
         <div class="img-container">
-            <img src="../images/Old adidas.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/Old adidas.jpg" alt="old adidas" style="width:100%">
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             <p><h3> OLD</h3></p>
             <p style="color:red;">550$</p>
