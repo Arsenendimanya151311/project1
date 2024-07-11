@@ -90,4 +90,5 @@ if (isset($_GET["customerid"]))
 
           <input type="submit" name="update_message" value="update Message">
           <input type="hidden" name="customerid" value="<?php print $spot_msg_row["customerid"]; ?>">
+          <?php include_once ("templates4/footer.php")?>
         </form>
