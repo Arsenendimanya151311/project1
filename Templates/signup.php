@@ -74,4 +74,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         <input type="submit" value="Sign Up" name="Sign Up">
     </form>
+    <?php include_once ("templates4/footer.php")?>
 </body>
