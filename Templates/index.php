@@ -112,31 +112,7 @@
                     
 </body>
 
-<style>
-
-img{
-    width: 200px;
-    height:300px ;
-    object-fit: cover;
-    margin: 1px;
- }
-
-    * {
-  box-sizing: border-box;
-}
-
-.img-container {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
+<?php include_once ("templates3/tab.php")?>
 
 
 
@@ -337,15 +313,11 @@ img{
                        
                             
                         </ol><form action=""></form>
-                    <form>
 
-                    <button>Submit</button>
-                    <hr size="8" width="100%" color="red"> 
-                    <p><center>Copyright KIVU Kicks 2024 &copy; Allrights reserved</center> </p>
-
+                    <?php include_once ("templates4/footer.php")?>
                     </form>
                     <style> body {
-                        background-image: url(images/bk.jpg);
+                        background-image: url(../images/bk.jpg);
                     }
                             </style>
 </body>
