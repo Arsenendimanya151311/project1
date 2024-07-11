@@ -181,8 +181,6 @@ echo "Connected successfully";
             <p> our <a href="https://www.instagram.com/kivu_kicks?igsh=MTFiZDNjMXVpMXE4bw%3D%3D&utm_source=qr" target="_blank">Instagram</a></p>
         </div>
     </div>
-    
-    <hr size="8" width="100%" color="red"> 
-    <p><center>Copyright KIVU Kicks &copy; Allrights reserved</center> </p>
+    <?php include_once ("templates4/footer.php")?>
 </body>
 </html>
