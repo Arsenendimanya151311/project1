@@ -16,8 +16,6 @@
 <?php include_once ("templates3/tab.php")?>
 
 
-
-
         
 <div class="clearfix">
     <div class="img-container">
@@ -120,10 +118,12 @@
         </select><br><br>                                               
 
                
-                    <hr size="8" width="100%" color="red"> 
-                    <p><center>Copyright KIVU Kicks 2024 &copy; Allrights reserved</center> </p>
+                  
 
                     </form>
+
+                    <?php include_once ("templates4/footer.php")?>
+
                     <style> body {
                         background-image: url(../images/bk.jpg);
                     }
