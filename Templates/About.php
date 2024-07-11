@@ -24,7 +24,7 @@
 
 
             <div class="image-container">
-                <img src="../images/sneakers.jpg" alt="Image 1" class="resize">
+                <img src="../images/sneakers.jpg" alt="sneakers" class="resize">
                
             </div>
 
