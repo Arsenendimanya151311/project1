@@ -22,7 +22,7 @@
         
 <div class="clearfix">
     <div class="img-container">
-    <img src="../images/KIDS JORDAN 1 B.jpg" alt="sneakers" style="width:100%">
+    <img src="../images/KIDS JORDAN 1 B.jpg" alt="jordan" style="width:100%">
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
     <p><h3>JORDAN</h3></p>
     <p style="color:red;">150$</p>
@@ -30,13 +30,13 @@
 
     </div>
     <div class="img-container">
-        <img src="../images/kids2.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/kids2.jpg" alt="kids2" style="width:100%">
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         <p><h3> ADIDAS SPLY</h3></p>
         <p style="color:red;">80$</p>
    </div>
     <div class="img-container">
-    <img src="../images/kids3.jpg" alt="Forest" style="width:100%">
+    <img src="../images/kids3.jpg" alt="kids3" style="width:100%">
     <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
     <p><h3>ADIDAS PUL </h3></p>
     <p style="color:red;">30$</p>
@@ -44,40 +44,40 @@
   
     
     <div class="img-container">
-        <img src="../images/kids4.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/kids4.jpg" alt="kids4" style="width:100%">
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         <p><h3>AIR FORCE</h3></p>
         <p style="color:red;">40$</p>
     
         </div>
         <div class="img-container">
-            <img src="../images/kids5.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/kids5.jpg" alt="kids5" style="width:100%">
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             <p><h3> SPADRI</h3></p>
             <p style="color:red;">30$</p>
         
             </div>
             <div class="img-container">
-                <img src="../images/kids6.jpg" alt="Mountains" style="width:100%">
+                <img src="../images/kids6.jpg" alt="kids 6" style="width:100%">
                 <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
                 <p><h3> FRAGMA CACTUS </h3></p>
                 <p style="color:red;">80$</p>
            </div>
            <div class="img-container">
-            <img src="../images/kids7.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/kids7.jpg" alt="kids 7" style="width:100%">
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             <p><h3> JORDAN 1 </h3></p>
             <p style="color:red;">180$</p>
        </div>
        <div class="img-container">
-        <img src="../images/kids8.jpg" alt="Mountains" style="width:100%">
+        <img src="../images/kids8.jpg" alt="kids 8" style="width:100%">
         <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
         <p><h3> JORDAN 6</h3></p>
         <p style="color:red;">80$</p>
     
         </div>
         <div class="img-container">
-            <img src="../images/kids9.jpg" alt="Mountains" style="width:100%">
+            <img src="../images/kids9.jpg" alt="kids 9" style="width:100%">
             <input type="checkbox"  Pilot=" Pilot " value="on" />Add to cart
             <p><h3> Vans</h3></p>
             <p style="color:red;">50$</p>
