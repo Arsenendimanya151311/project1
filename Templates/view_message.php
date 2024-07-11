@@ -80,7 +80,7 @@ if (isset($_GET["DelId"])) {
             </table>
         </div>
     </div>
-    <?php include_once("templates2/.php");
+    <?php include_once("templates2/nav.php");
 require_once("includes/db-connect.php");
 ?>
 
